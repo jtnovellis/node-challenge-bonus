@@ -1,0 +1,16 @@
+{
+  "name": "nodechallengebonus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.4.0",
+    "nodemon": "^2.0.19"
+  }
+}
